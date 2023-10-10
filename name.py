@@ -1,1 +1,4 @@
-print('Martin Pavlov')
+name = 'Martin Pavlov'
+
+
+print(name)
